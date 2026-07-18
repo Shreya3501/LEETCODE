@@ -99,3 +99,15 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 *"Consistency beats intensity."*
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
