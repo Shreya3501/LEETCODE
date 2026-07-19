@@ -106,8 +106,13 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
+| [0119-pascals-triangle-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0119-pascals-triangle-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 <!---LeetCode Topics End-->
