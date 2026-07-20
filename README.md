@@ -107,6 +107,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
 | [0119-pascals-triangle-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,4 +116,9 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0119-pascals-triangle-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
