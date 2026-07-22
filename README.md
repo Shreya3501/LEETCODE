@@ -111,12 +111,14 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0119-pascals-triangle-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0119-pascals-triangle-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -154,4 +156,25 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
