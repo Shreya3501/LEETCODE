@@ -109,6 +109,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0042-trapping-rain-water](https://github.com/Shreya3501/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
 | [0119-pascals-triangle-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Shreya3501/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
@@ -117,6 +118,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/Shreya3501/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
@@ -177,4 +179,8 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Shreya3501/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
