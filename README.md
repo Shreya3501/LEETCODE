@@ -127,6 +127,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0128-longest-consecutive-sequence](https://github.com/Shreya3501/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Dynamic Programming
 |  |
@@ -170,6 +171,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shreya3501/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Sorting
 |  |
@@ -211,6 +213,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreya3501/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
