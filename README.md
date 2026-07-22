@@ -106,6 +106,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Shreya3501/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreya3501/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Shreya3501/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
@@ -144,6 +145,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Shreya3501/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreya3501/LEETCODE/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Shreya3501/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shreya3501/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -193,4 +195,8 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Shreya3501/LEETCODE/tree/master/0128-longest-consecutive-sequence) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Shreya3501/LEETCODE/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
