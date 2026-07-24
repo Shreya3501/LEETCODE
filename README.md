@@ -119,6 +119,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -149,6 +150,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya3501/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -225,4 +227,13 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
+## Simulation
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
