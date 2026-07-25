@@ -1,21 +1,23 @@
 class Solution {
 public:
-    int maxArea(vector<int>& height) {
-        int left =0 ;
-        int right = height.size()-1;
-        int ans=0;
+    int lengthOfLongestSubstring(string s) {
+        unordered_set<char> st;
 
-        while(left < right ){
-            int width = right - left;
-            int area = width * min(height[left],height[right]);
-            ans = max(ans,area);
+        int left = 0;
+        int ans = 0;
 
-            if(height[left] < height[right]){
+        for(int right = 0 ; right < s.size() ; right++){
+
+            while(st.count(s[right])){
+
+                st.erase(s[left]);
                 left++;
+
             }
-            else{
-                right--;
-            }
+
+            st.insert(s[right]);
+
+            ans = max(ans , right - left + 1);
         }
         return ans;
     }
