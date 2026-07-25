@@ -191,6 +191,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreya3501/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,4 +269,8 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
+## Math
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Shreya3501/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
