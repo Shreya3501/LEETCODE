@@ -120,6 +120,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Hash Table
@@ -153,6 +154,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
@@ -227,11 +229,13 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shreya3501/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Simulation
@@ -242,12 +246,14 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Design
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shreya3501/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
+| [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
