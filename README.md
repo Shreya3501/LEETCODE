@@ -123,6 +123,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -135,6 +136,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shreya3501/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -206,6 +209,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
 | ------- |
@@ -230,6 +234,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
 | ------- |
@@ -238,6 +243,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Simulation
 |  |
 | ------- |
@@ -258,4 +264,8 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shreya3501/LEETCODE/tree/master/0307-range-sum-query-mutable) |
+## Merge Sort
+|  |
+| ------- |
+| [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 <!---LeetCode Topics End-->
