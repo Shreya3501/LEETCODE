@@ -122,6 +122,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreya3501/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -193,6 +194,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreya3501/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreya3501/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -204,6 +206,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreya3501/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
