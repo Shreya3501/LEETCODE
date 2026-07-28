@@ -186,6 +186,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreya3501/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +196,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreya3501/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreya3501/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreya3501/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Divide and Conquer
 |  |
@@ -279,4 +281,8 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreya3501/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreya3501/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->
