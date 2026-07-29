@@ -138,6 +138,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Dynamic Programming
 |  |
@@ -187,6 +188,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreya3501/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -217,6 +219,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Quickselect
 |  |
@@ -280,9 +283,14 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreya3501/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreya3501/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
