@@ -121,6 +121,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shreya3501/LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreya3501/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -149,6 +150,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya3501/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -255,6 +257,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shreya3501/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shreya3501/LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -281,6 +284,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Shreya3501/LEETCODE/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shreya3501/LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Merge Sort
 |  |
 | ------- |
