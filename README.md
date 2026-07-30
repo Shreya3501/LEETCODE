@@ -188,6 +188,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shreya3501/LEETCODE/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Shreya3501/LEETCODE/tree/master/0567-permutation-in-string) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreya3501/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Shreya3501/LEETCODE/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Sorting
@@ -235,6 +236,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreya3501/LEETCODE/tree/master/0011-container-with-most-water) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreya3501/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -287,6 +289,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreya3501/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shreya3501/LEETCODE/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting Sort
