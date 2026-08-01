@@ -120,6 +120,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Shreya3501/LEETCODE/tree/master/0347-top-k-frequent-elements) |
 | [0406-queue-reconstruction-by-height](https://github.com/Shreya3501/LEETCODE/tree/master/0406-queue-reconstruction-by-height) |
+| [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
@@ -151,6 +152,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shreya3501/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Shreya3501/LEETCODE/tree/master/0322-coin-change) |
+| [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Breadth-First Search
 |  |
@@ -300,6 +302,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Shreya3501/LEETCODE/tree/master/0441-arranging-coins) |
+| [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Shreya3501/LEETCODE/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -316,4 +319,12 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shreya3501/LEETCODE/tree/master/0374-guess-number-higher-or-lower) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
