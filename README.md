@@ -127,6 +127,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Shreya3501/LEETCODE/tree/master/0875-koko-eating-bananas) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shreya3501/LEETCODE/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreya3501/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shreya3501/LEETCODE/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -170,6 +171,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Shreya3501/LEETCODE/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Shreya3501/LEETCODE/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3477-fruits-into-baskets-ii](https://github.com/Shreya3501/LEETCODE/tree/master/3477-fruits-into-baskets-ii) |
 ## Two Pointers
 |  |
