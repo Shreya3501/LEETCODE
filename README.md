@@ -179,6 +179,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreya3501/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreya3501/LEETCODE/tree/master/0015-3sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya3501/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Shreya3501/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shreya3501/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shreya3501/LEETCODE/tree/master/0125-valid-palindrome) |
@@ -196,6 +197,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shreya3501/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya3501/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Shreya3501/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Shreya3501/LEETCODE/tree/master/0242-valid-anagram) |
@@ -333,4 +335,20 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya3501/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya3501/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya3501/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya3501/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
