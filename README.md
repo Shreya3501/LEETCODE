@@ -108,6 +108,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0001-two-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Shreya3501/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreya3501/LEETCODE/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Shreya3501/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shreya3501/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Shreya3501/LEETCODE/tree/master/0049-group-anagrams) |
 | [0119-pascals-triangle-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0119-pascals-triangle-ii) |
@@ -178,6 +179,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shreya3501/LEETCODE/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Shreya3501/LEETCODE/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/Shreya3501/LEETCODE/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Shreya3501/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/Shreya3501/LEETCODE/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya3501/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
