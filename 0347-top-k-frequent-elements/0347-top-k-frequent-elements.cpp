@@ -1,17 +1,27 @@
 class Solution {
 public:
-    vector<vector<string>> groupAnagrams(vector<string>& strs) {
-        unordered_map< string, vector<string>> mp;
-        for(string s :strs){
-            string key = s;
-            sort(key.begin(),key.end());
+    vector<int> topKFrequent(vector<int>& nums, int k) {
 
-            mp[key].push_back(s);
+        unordered_map<int,int> mp;
+
+        for(int i = 0; i < nums.size(); i++){
+            mp[nums[i]]++;
         }
-        vector<vector<string>> ans;
+
+        vector<pair<int,int>> v;
+
         for(auto x : mp){
-            ans.push_back(x.second);
+            v.push_back({x.second, x.first});
         }
+
+        sort(v.rbegin(), v.rend());
+
+        vector<int> ans;
+
+        for(int i = 0; i < k; i++){
+            ans.push_back(v[i].second);
+        }
+
         return ans;
-    } 
+    }
 };
