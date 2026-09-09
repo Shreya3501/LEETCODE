@@ -165,6 +165,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shreya3501/LEETCODE/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shreya3501/LEETCODE/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
 | [0300-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0300-longest-increasing-subsequence) |
@@ -311,6 +312,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Shreya3501/LEETCODE/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/Shreya3501/LEETCODE/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
@@ -353,4 +355,8 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shreya3501/LEETCODE/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Shreya3501/LEETCODE/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
