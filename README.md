@@ -124,6 +124,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 | [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/Shreya3501/LEETCODE/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0724-find-pivot-index](https://github.com/Shreya3501/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Shreya3501/LEETCODE/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [0875-koko-eating-bananas](https://github.com/Shreya3501/LEETCODE/tree/master/0875-koko-eating-bananas) |
@@ -267,6 +268,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Shreya3501/LEETCODE/tree/master/0209-minimum-size-subarray-sum) |
+| [0724-find-pivot-index](https://github.com/Shreya3501/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Shreya3501/LEETCODE/tree/master/0731-my-calendar-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Shreya3501/LEETCODE/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
