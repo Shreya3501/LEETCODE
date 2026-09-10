@@ -1,57 +1,62 @@
 class Solution {
 public:
-    bool isPossible(vector<int>& weights, int days, int mid) {
+    bool ispossible(vector<int> &weights , int days, int mid){
 
-    int dayCount = 1;
-    int weightSum = 0;
+        int dayscount = 1;
+        int capacity = 0;
 
-    for(int i = 0; i < weights.size(); i++) {
+        for(int i = 0 ; i<weights.size(); i++){
 
-        if(weightSum + weights[i] <= mid) {
+            if(capacity + weights[i] <= mid){
 
-            weightSum += weights[i];
+                capacity += weights[i];
 
-        }
-        else {
-
-            dayCount++;
-
-            if(dayCount > days) {
-                return false;
             }
+            else{
 
-            weightSum = weights[i];
+                dayscount++;
+                if(dayscount > days){
+
+                    return false;
+                }
+                capacity = weights[i];
+            }
         }
+        return true;
     }
-
-    return true;
-}
+    
+    
     int shipWithinDays(vector<int>& weights, int days) {
+        
+        int left = *max_element(weights.begin() , weights.end());
+        int ans = -1;
+        int sum = 0;
 
-    int left = *max_element(weights.begin(), weights.end());
+        for(int i =0; i<weights.size() ; i++){
 
-    int right = 0;
-    for(int x : weights) {
-        right += x;
-    }
-
-    int ans = -1;
-
-    while(left <= right) {
-
-        int mid = left + (right - left) / 2;
-
-        if(isPossible(weights, days, mid)) {
-
-            ans = mid;
-            right = mid - 1;
+            sum += weights[i];
 
         }
-        else {
 
-            left = mid + 1;
+        int right = sum;
+
+        while(left <= right){
+
+            int mid = left + (right - left)/2;
+
+            if(ispossible(weights, days, mid)){
+
+                ans = mid;
+                right = mid - 1;
+
+            }
+            else{
+
+                left = mid + 1;
+
+            }
         }
-    }
 
-    return ans;
-}};
+        return ans;
+    }
+};
