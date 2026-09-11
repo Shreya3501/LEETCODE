@@ -315,6 +315,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shreya3501/LEETCODE/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Shreya3501/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/Shreya3501/LEETCODE/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Shreya3501/LEETCODE/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shreya3501/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
