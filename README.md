@@ -315,6 +315,7 @@ Every accepted solution is automatically pushed to this repository using **LeetH
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Shreya3501/LEETCODE/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shreya3501/LEETCODE/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Shreya3501/LEETCODE/tree/master/0172-factorial-trailing-zeroes) |
 | [0441-arranging-coins](https://github.com/Shreya3501/LEETCODE/tree/master/0441-arranging-coins) |
